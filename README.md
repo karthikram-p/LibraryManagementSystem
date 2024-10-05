@@ -59,6 +59,7 @@ A Library Management System built using Java, Swing, AWT, and SQL. This applicat
 
    
 ## File Structure
+```bash
 LibraryManagementSystem
 ├── bin
 │   └── LMS
